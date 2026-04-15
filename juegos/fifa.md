@@ -9,3 +9,6 @@ FIFA 23
 ## Sinopsis
 Vive la experiencia del fútbol mundial controlando a tus equipos y jugadores favoritos, compitiendo en las ligas y torneos más prestigiosos del mundo para alzarte con la gloria deportiva.
 
+## Imagen
+![FIFA 23 Art](https://i.ytimg.com/vi_webp/EbrAfuBn_2w/maxresdefault.webp)
+
